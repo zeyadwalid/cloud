@@ -8,10 +8,12 @@ var schema = new mongoose.Schema({
     email : {
         type: String,
         required: true,
-        unique: true
     },
-    gender : String,
-    status : String
+    Age : {
+        type: Number,
+        required: true,
+    },
+    gender : String
 })
 
 const Userdb = mongoose.model('userdb', schema);
