@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 PORT = 3000
-MONGO_URI = "mongodb+srv://khaledshaaban926:26EzpMouMmo4bXFC@cluster0.iwjiarl.mongodb.net/test"
+MONGO_URI = "mongodb+srv://zeyadwaliddd:yZBYzhd9fcCkzC3P@cluster0.dpwlgj1.mongodb.net/"
 const connectDB = async () => {
     try{
 
