@@ -47,3 +47,5 @@ if(window.location.pathname == "/"){
 
     })
 }
+
+/*javascript*/
